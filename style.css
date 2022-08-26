@@ -1,947 +1,893 @@
 body {
-    font-family: 'Ubuntu', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .logo {
-    background-color: #2E948A;
-    height: 117px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 702px;
-    padding: 0px 100px 0px 82px;
-
+  background-color: #2e948a;
+  height: 117px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 702px;
+  padding: 0px 100px 0px 82px;
 }
 
 .logo a {
-    color: #fff;
-    font-size: 20px;
-    font-weight: bold;
-    text-decoration: none;
-    font-weight: 700px;
-
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  font-weight: 700px;
 }
 
 .menu {
-    display: flex;
-    justify-content: center;
-    gap: 40px;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
 }
 
 .rodape {
-    background-color: #2E948A;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 207px;
-    gap: 300px;
-   
-
-
-
+  background-color: #2e948a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 207px;
+  gap: 300px;
 }
 
 .rodape a {
-
-    color: #fff;
-    font-size: 20px;
-    font-weight: bold;
-    text-decoration: none;
-    font-weight: 400px;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  font-weight: 400px;
 }
 
 .menu2 {
-    display: flex;
-    flex-direction: column-reverse;
-    gap: 13px;
-
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 13px;
 }
 
-.menu3{
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
+.menu3 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
-.part1{
-    display: flex;
-    margin: 125px 0px 66px 206px;
-    gap: 350px;
+.part1 {
+  display: flex;
+  margin: 125px 0px 66px 206px;
+  gap: 350px;
 }
 
-.texto1{
-    color: #FF4081;
-    font-size: 60px;
-    font-weight: 700px;
-   
+.texto1 {
+  color: #ff4081;
+  font-size: 60px;
+  font-weight: 700px;
 }
 
-.part2{
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
+.part2 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
 
-.texto2{
-    font-size: 27px;
+.texto2 {
+  font-size: 27px;
 }
 
-.botao{
-    font-size: 27px;
-    border: 2px solid #FF4081;
-    border-radius: 47px;
-    color: #FF4081;
-    height: 51px;
-    width: 268px;
+.botao {
+  font-size: 27px;
+  border: 2px solid #ff4081;
+  border-radius: 47px;
+  color: #ff4081;
+  height: 51px;
+  width: 268px;
 }
 
-.bloco1{
-    background-color: #F7F7F7;
-    display: flex;
-   padding: 109px 0px 135px 156px;
-   gap: 200px;
-   
+.bloco1 {
+  background-color: #f7f7f7;
+  display: flex;
+  padding: 109px 0px 135px 156px;
+  gap: 200px;
 }
 
-.banner{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+.banner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
-.bloco2{
-    display: flex;
-    padding: 0px 0px 0px 139px;
-    gap: 200px;
+.bloco2 {
+  display: flex;
+  padding: 0px 0px 0px 139px;
+  gap: 200px;
 }
 
-.icon{
-    display: flex;
-    gap: 37px;
+.icon {
+  display: flex;
+  gap: 37px;
 }
 
-.icon2{
-   display: flex;
-   flex-direction: column;
-   gap: 86px;
-   padding: 90px 0px 165px 0px;
+.icon2 {
+  display: flex;
+  flex-direction: column;
+  gap: 86px;
+  padding: 90px 0px 165px 0px;
 }
 
-.bloco3{
-    display: flex;
-    gap: 109px;
-    padding: 73px 0px 111px 128px;
+.bloco3 {
+  display: flex;
+  gap: 109px;
+  padding: 73px 0px 111px 128px;
 }
 
-.texto3{
-    padding: 0px 0px 0px 128px;
-    color: #009688;
-}
-.bloco4{
-    background-color: #E5E5E5;
-    padding: 91px 0px 63px 0px;
+.texto3 {
+  padding: 0px 0px 0px 128px;
+  color: #009688;
 }
 
-.botao3{
-    display: flex;
-    justify-content: center;
-    
+.bloco4 {
+  background-color: #e5e5e5;
+  padding: 91px 0px 63px 0px;
 }
 
-.img1{
-    padding: 50px 0px 0px 0px;
+.botao3 {
+  display: flex;
+  justify-content: center;
 }
 
-.botao2{
-    font-size: 27px;
-    border: 2px solid #FF4081;
-    border-radius: 62px;
-    background-color: #FF4081;
-    color: #E5E5E5;
-    height: 51px;
-    width: 233px;
-    font-size: 20px;
-    font-weight: 400;
-    line-height: 23px;
-}
-.botao3{
-    display: flex;
-    justify-content: flex-start;
-    
-    
-}
-.botao4{
-    font-size: 25px;
-    border: 2px solid #FF4081;
-    border-radius: 62px;
-    color: #FF4081;
-    height: 51px;
-    width: 289px;
-    margin: 0px 0px 0px 582px;
-    
+.img1 {
+  padding: 50px 0px 0px 0px;
 }
 
-.botao5{
-    font-size: 20px;
-    border: 2px solid white;
-    border-radius: 62px;
-    color: white;
-    height: 51px;
-    width: 289px;
-    background-color: #419488;
-    
+.botao2 {
+  font-size: 27px;
+  border: 2px solid #ff4081;
+  border-radius: 62px;
+  background-color: #ff4081;
+  color: #e5e5e5;
+  height: 51px;
+  width: 233px;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 23px;
 }
 
-.bloco1blog{
-    display: flex;
-    gap: 125px;
+.botao3 {
+  display: flex;
+  justify-content: flex-start;
 }
 
-.blog1{
-    padding: 122px 0px 162px 239px;
-   
+.botao4 {
+  font-size: 25px;
+  border: 2px solid #ff4081;
+  border-radius: 62px;
+  color: #ff4081;
+  height: 51px;
+  width: 289px;
+  margin: 0px 0px 0px 582px;
 }
 
-.blog2{
-padding: 48px 0px 89px 0px;
+.botao5 {
+  font-size: 20px;
+  border: 2px solid white;
+  border-radius: 62px;
+  color: white;
+  height: 51px;
+  width: 289px;
+  background-color: #419488;
 }
 
-.bloco2blog{
-    display: flex;
-    gap: 120px;
-    background-color: #E5E5E5;
-    padding: 109px 0px 170px 170px;
+.bloco1blog {
+  display: flex;
+  gap: 125px;
 }
 
-.imgg{
-    padding: 100px 0px 0px 0px;
+.blog1 {
+  padding: 122px 0px 162px 239px;
 }
 
-.texto4{
-    color:  #009688;
-    font-weight: 700;
-    font-size: 47px;
-    line-height: 54px;
-    width: 512px;
-    height: 108px;
+.blog2 {
+  padding: 48px 0px 89px 0px;
 }
 
-.texto5{
-    font-size: 20px;
-    font-weight: 300;
-    line-height: 23px;
+.bloco2blog {
+  display: flex;
+  gap: 120px;
+  background-color: #e5e5e5;
+  padding: 109px 0px 170px 170px;
 }
 
-.texto6{
-    color: #FF4081;
-    font-weight: 500;
-    font-size: 30px;
-    line-height: 34px;
+.imgg {
+  padding: 100px 0px 0px 0px;
 }
 
-.texto7{
-    font-weight: 300;
-    font-size: 17px;
-    line-height: 20px;
+.texto4 {
+  color: #009688;
+  font-weight: 700;
+  font-size: 47px;
+  line-height: 54px;
+  width: 512px;
+  height: 108px;
 }
 
-@media(max-width:600px){
-    .img1{
-        display: none;
-    }
-
-    .bloco1{
-        display: flex;
-        flex-direction: column;
-       padding: 75px;
-    }
-
-    .part1{
-        margin: 75px;
-    }
-
-    .bloco2{
-        display: flex;
-        flex-direction: column;
-        padding: 0px;
-        gap: 0px;
-        margin: 0px;
-    }
-
-    .icon2{
-        padding: 37px 0px;
-    }
-
-    .bloco3{
-        display: flex;
-        flex-direction: column;
-    }
-
-    .bloco3{
-        padding: 0px 0px 0px 80px;
-    }
-
-    .logo{
-    width: 100%;
-    padding: 020px 0px 20px 0px;
-    gap: 0px;
-    flex-direction: column;
-
-
-    }
-
-    .rodape{
-        width: 100%;
-        gap: 20px;
-        flex-direction: column;
-        height: 325px;
-        padding: 30px 0px 30px 0px;
-    }
-
-    .menu3{
-        flex-direction: row;
-        gap: 20px;
-    }
-
-    .texto3{
-        padding: 0px 0px 50px 80px;
-    }
-
-    .blog1{
-        padding: 10px;
-    }
-
-    .blog2{
-        display: none;
-
-
-    }
-
-    .bloco2blog{
-        flex-direction: column;
-        padding: 0px 0px 20px 20px;
-        
-    }
-
-    .imgg{
-        height: 300px;
-
-    }
-
-    .botao3{
-        display: flex;
-        
-    }
-
-    .botao4{
-        margin: 40px 0px 0px 80px;
-        
-    }
+.texto5 {
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 23px;
 }
 
-main h1 {
-    padding-left: 82px;
-    padding-right: 1095px;
-    padding-bottom: 10px;
-    margin-bottom: 0px;
-    font-family: 'Ubuntu';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 60px;
-    line-height: 69px;
-    /* identical to box height */
-  
-    text-transform: capitalize;
-  
-    color: #ff4081;
+.texto6 {
+  color: #ff4081;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 34px;
+}
+
+.texto7 {
+  font-weight: 300;
+  font-size: 17px;
+  line-height: 20px;
+}
+
+@media (max-width: 600px) {
+  .img1 {
+    display: none;
   }
-  
-  main h3 {
-    width: 317px;
-    height: 23px;
-    left: 82px;
-    top: 267px;
-  
-    padding-left: 82px;
-    padding-top: 0px;
-    margin-top: 0px;
-  
-    font-family: 'Ubuntu';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 23px;
-    /* identical to box height */
-  
-    color: #555555;
-  }
-  
-  hr {
-    width: 100%;
-    height: 5px;
-    left: 98px;
-  
-    display: flex;
-  
-    background: #c4c4c4;
-  }
-  
-  /* COURSE - 1 */
-  .course-1 a button {
-    font-size: 18px;
-    padding: 7px 10px;
-    color: #ffffff;
-    border: 1px solid #176902;
-    border-radius: 47px;
-    background-color: #ffffff;
-    background: #419488;
-  }
-  
-  .course-1 div {
-    display: inline-block;
-    column-count: 2;
-    padding-bottom: 93px;
-    padding-top: 107px;
-    padding-left: 60px;
-    padding-right: 171px;
-  }
-  
-  .course-1 h2 {
-    width: 512px;
-    height: 40px;
-    left: 545px;
-    top: 406px;
-  
-    font-family: 'Ubuntu';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 35px;
-    line-height: 40px;
-  
-    color: #ff4081;
-  }
-  
-  /* CORSE - 2 */
-  
-  .course-2 a button {
-    font-size: 18px;
-    padding: 7px 10px;
-    color: #ffffff;
-    border: 1px solid #176902;
-    border-radius: 47px;
-    background-color: #ffffff;
-    background: #419488;
-  }
-  
-  .course-2 div {
-    display: inline-block;
-    column-count: 2;
-    padding-bottom: 93px;
-    padding-top: 107px;
-    padding-left: 60px;
-    padding-right: 171px;
-  }
-  
-  .course-2 h2 {
-    width: 373px;
-    height: 40px;
-    left: 545px;
-    top: 947px;
-  
-    font-family: 'Ubuntu';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 35px;
-    line-height: 40px;
-    text-align: center;
-  
-    color: #ff4081;
-  }
-  
-  /* CORSE - 3 */
-  
-  .course-3 a button {
-    font-size: 18px;
-    padding: 7px 10px;
-    color: #ffffff;
-    border: 1px solid #176902;
-    border-radius: 47px;
-    background-color: #ffffff;
-    background: #419488;
-  }
-  
-  .course-3 div {
-    display: inline-block;
-    column-count: 2;
-    padding-bottom: 93px;
-    padding-top: 107px;
-    padding-left: 60px;
-    padding-right: 171px;
-  }
-  
-  .course-3 h2 {
-    width: 425px;
-    height: 40px;
-    left: 534px;
-    top: 1581px;
-  
-    font-family: 'Ubuntu';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 35px;
-    line-height: 40px;
-    text-align: center;
-  
-    color: #ff4081;
-  }
-  
-  /* footer*/
-  
 
-  
-  .rodape a {
-    color: #fff;
-    font-size: 20px;
-    font-weight: bold;
-    text-decoration: none;
-    font-weight: 400px;
+  .imgind {
+    display: none;
   }
-  
-  .menu2 {
-    display: flex;
-    flex-direction: column-reverse;
-    gap: 13px;
-  }
-  
-  .menu3 {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-  }
-  
-  .botao5 {
-    font-size: 20px;
-    border: 2px solid white;
-    border-radius: 62px;
-    color: white;
-    height: 51px;
-    width: 289px;
-    background-color: #419488;
-  }
-  
-  /* PAGINA POST*/
-  
+
   .bloco1 {
-    background-color: #f7f7f7;
-    display: flex;
-    padding: 109px 100px 135px 156px;
-    gap: 200px;
-  }
-  
-  section .banner {
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-  }
-  .banner {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-  
-    align-items: center;
+    padding: 75px;
   }
-  
-  .botao2 {
-    font-size: 27px;
-    border: 2px solid #ff4081;
-    border-radius: 62px;
-    background-color: #ff4081;
-    color: #e5e5e5;
-    height: 51px;
-    width: 233px;
-    font-size: 20px;
-    font-weight: 400;
-    line-height: 23px;
+
+  .part1 {
+    margin: 75px;
   }
-  
-  .post h1 {
-    width: 100%x;
-    height: 46px;
-    left: 310px;
-    top: 228px;
-  
-    font-family: 'Ubuntu';
-    font-style: normal;
-    font-weight: 500px;
-    font-size: 50px;
-    line-height: 57px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  
-    color: #ff4081;
-  }
-  
-  .post h5 {
-    height: 21px;
-    left: 620px;
-    top: 286px;
-  
-    font-family: 'Ubuntu';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 18px;
-    line-height: 21px;
-    /* identical to box height */
-  
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  
-    color: #9d9d9d;
-  }
-  
-  article .post {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .post img {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 0 auto;
-  }
-  
-  .post p {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-left: 204px;
-    padding-right: 204px;
-    font-style: normal;
-    font-family: 'Ubuntu';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 18px;
-    line-height: 21px;
-    font-feature-settings: 'kern' off;
-  }
-  
-  @media (max-width: 600px) {
-   
-  
-  .menu {
-    flex-direction: row;
-    gap: 20px;
-  }
-  
- 
-  
-  .course-1 div{
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-  }
-  
-  .course-2 div {
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-  }
-  .course-3 div {
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-  }
-  
-  .post img {
-    display:none;
-  }
-  
-  .post p {
-    display: flex;
-  }
-  
-  .bloco2{
+
+  .bloco2 {
     display: flex;
     flex-direction: column;
     padding: 0px;
     gap: 0px;
     margin: 0px;
   }
-  
-  .icon2{
+
+  .icon2 {
     padding: 37px 0px;
   }
-  
-  
-  
-  
-  
-  }
-  .container-logo {
-    background-color: #ffc107;
-    text-align: center;
-    position: relative;
-    z-index: 1;
-    box-shadow: 0px 0px 5px grey;
-  }
-  
-  nav {
-    background-color: #ffa000;
-    display: flex;
-    justify-content: center;
-    gap: 58px;
-    height: 48px;
-    align-items: center;
-  }
-  
-  .menu {
-    margin: 0;
-    padding: 0;
-  }
-  
-  .menu-item {
-    display: inline;
-  }
-  
-  .menu-item-link {
-    color: #fff;
-    font-weight: 700;
-    font-size: 20px;
-    text-decoration: none;
-    margin: 10px 30px;
-  }
-  
-  #imagem-contato-form {
-    width: 100%;
-    height: 30rem;
-  }
-  
-  #formulario {
-    display: flex;
-    justify-content: center;
-    width: 80%;
-    margin: 150px auto 300px auto;
-    gap: 30px;
-    color: #ffc107;
-  
-  }
-  
-  #formulario div {
+
+  .bloco3 {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    color: #ff4081;
-    border-radius: 15px;
-    width: 700px;
-    margin-left: 15px;
   }
-  
-  #formulario h1 {
-    margin-left: 20px;
-    font-weight: 700;
-    font-size: 40px;
-    margin-bottom: 40px;
+
+  .bloco3 {
+    padding: 0px 0px 0px 80px;
   }
-  
-  #formulario form * {
-    margin: 10px 0;
+
+  .logo {
+    width: 100%;
+    padding: 020px 0px 20px 0px;
+    gap: 0px;
+    flex-direction: column;
+  }
+
+  .rodape {
+    width: 100%;
+    gap: 20px;
+    flex-direction: column;
+    height: 325px;
+    padding: 30px 0px 30px 0px;
+  }
+
+  .menu3 {
+    flex-direction: row;
+    gap: 20px;
+  }
+
+  .texto3 {
+    padding: 0px 0px 50px 80px;
+  }
+
+  .blog1 {
     padding: 10px;
   }
-  
-  #formulario form {
-    display: flex;
+
+  .blog2 {
+    display: none;
+  }
+
+  .bloco2blog {
     flex-direction: column;
-    align-items: flex-start;
-    width: 90%;
-    padding: 20px;
+    padding: 0px 0px 20px 20px;
   }
-  
-  #formulario button {
-    color: #fff;
-    border-radius: 50px;
-    background-color: #ff4081;
-    width: 150px;
-    height: 40px;
-    font-family: "Nunito";
-    font-size: 16px;
-    font-weight: bold;
-    border: none;
+
+  .imgg {
+    height: 300px;
   }
-  
-  #formulario textarea {
-    height: 100px;
+
+  .botao3 {
+    display: flex;
   }
-  
-  #formulario input,
-  textarea {
-    border: 1px solid #000000;
-    border-radius: 5px;
-    width: 100%;
+
+  .botao4 {
+    margin: 40px 0px 0px 80px;
   }
-  
-  #titulo-index {
-    margin-top: 80px;
-    color: #ffc107;
-    font-weight: 700;
-    font-size: 50px;
-    margin-left: 50px;
-    text-align: center;
-  }
-  
+
   #banner {
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    font-weight: 700;
-    height: 640px;
-    font-size: 70px;
-    color: #fff;
-    display: flex;
-    
-    align-items: center;
-    padding: 100px 100px 100px 200px;
+    padding: 0px 0px 0px 0px;
   }
-  
-  #texto-banner {
-    font-size: 1rem;
-    color: rgb(12, 12, 12);
-  }
-  
-  #h1-banner {
-    font-size: 5rem;
-    color: #ff4081;
-  }
-  
-  #banner-1 {
-    
-    width: 60%;
-   
-    color: #ffc107;
-  }
-  
-  #texto-caixa1 {
-    font-size: 5rem;
-    color: #ff4081;
-  }
-  
-  .box-filmes {
-    display: flex;
-    justify-content: center;
-    gap: 8rem;
-    width: 80%;
-    padding: 75px 0px 75px 200px;
-    color: #ffc107;
-  }
-  
-  footer {
-    background-color: #ffc107;
-    color: #fff;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-  }
-  
-  .pratos {
-    background-color: #F6F6F6;
-  }
-  
-  /* header */
-  
-  
-  .logo a {
-    color: #fff;
-    font-size: 20px;
-    font-weight: bold;
-    text-decoration: none;
-    font-weight: 700px;
-  
-  }
-  
+}
+
+main h1 {
+  padding-left: 82px;
+  padding-right: 1095px;
+  padding-bottom: 10px;
+  margin-bottom: 0px;
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 69px;
+  /* identical to box height */
+
+  text-transform: capitalize;
+
+  color: #ff4081;
+}
+
+main h3 {
+  width: 317px;
+  height: 23px;
+  left: 82px;
+  top: 267px;
+
+  padding-left: 82px;
+  padding-top: 0px;
+  margin-top: 0px;
+
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  /* identical to box height */
+
+  color: #555555;
+}
+
+hr {
+  width: 100%;
+  height: 5px;
+  left: 98px;
+
+  display: flex;
+
+  background: #c4c4c4;
+}
+
+/* COURSE - 1 */
+.course-1 a button {
+  font-size: 18px;
+  padding: 7px 10px;
+  color: #ffffff;
+  border: 1px solid #176902;
+  border-radius: 47px;
+  background-color: #ffffff;
+  background: #419488;
+}
+
+.course-1 div {
+  display: inline-block;
+  column-count: 2;
+  padding-bottom: 93px;
+  padding-top: 107px;
+  padding-left: 60px;
+  padding-right: 171px;
+}
+
+.course-1 h2 {
+  width: 512px;
+  height: 40px;
+  left: 545px;
+  top: 406px;
+
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 40px;
+
+  color: #ff4081;
+}
+
+/* CORSE - 2 */
+
+.course-2 a button {
+  font-size: 18px;
+  padding: 7px 10px;
+  color: #ffffff;
+  border: 1px solid #176902;
+  border-radius: 47px;
+  background-color: #ffffff;
+  background: #419488;
+}
+
+.course-2 div {
+  display: inline-block;
+  column-count: 2;
+  padding-bottom: 93px;
+  padding-top: 107px;
+  padding-left: 60px;
+  padding-right: 171px;
+}
+
+.course-2 h2 {
+  width: 373px;
+  height: 40px;
+  left: 545px;
+  top: 947px;
+
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 40px;
+  text-align: center;
+
+  color: #ff4081;
+}
+
+/* CORSE - 3 */
+
+.course-3 a button {
+  font-size: 18px;
+  padding: 7px 10px;
+  color: #ffffff;
+  border: 1px solid #176902;
+  border-radius: 47px;
+  background-color: #ffffff;
+  background: #419488;
+}
+
+.course-3 div {
+  display: inline-block;
+  column-count: 2;
+  padding-bottom: 93px;
+  padding-top: 107px;
+  padding-left: 60px;
+  padding-right: 171px;
+}
+
+.course-3 h2 {
+  width: 425px;
+  height: 40px;
+  left: 534px;
+  top: 1581px;
+
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 40px;
+  text-align: center;
+
+  color: #ff4081;
+}
+
+/* footer*/
+
+.rodape a {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  font-weight: 400px;
+}
+
+.menu2 {
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 13px;
+}
+
+.menu3 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.botao5 {
+  font-size: 20px;
+  border: 2px solid white;
+  border-radius: 62px;
+  color: white;
+  height: 51px;
+  width: 289px;
+  background-color: #419488;
+}
+
+/* PAGINA POST*/
+
+.bloco1 {
+  background-color: #f7f7f7;
+  display: flex;
+  padding: 109px 100px 135px 156px;
+  gap: 200px;
+}
+
+section .banner {
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.banner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  align-items: center;
+}
+
+.botao2 {
+  font-size: 27px;
+  border: 2px solid #ff4081;
+  border-radius: 62px;
+  background-color: #ff4081;
+  color: #e5e5e5;
+  height: 51px;
+  width: 233px;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 23px;
+}
+
+.post h1 {
+  width: 100%x;
+  height: 46px;
+  left: 310px;
+  top: 228px;
+
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 500px;
+  font-size: 50px;
+  line-height: 57px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  color: #ff4081;
+}
+
+.post h5 {
+  height: 21px;
+  left: 620px;
+  top: 286px;
+
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  color: #9d9d9d;
+}
+
+article .post {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.post img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.post p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 204px;
+  padding-right: 204px;
+  font-style: normal;
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 21px;
+  font-feature-settings: 'kern' off;
+}
+
+@media (max-width: 600px) {
   .menu {
-    display: flex;
-    justify-content: center;
-    gap: 40px;
+    flex-direction: row;
+    gap: 20px;
   }
-  
-  
-  
-  .rodape a {
-  
-    color: #fff;
-    font-size: 20px;
-    font-weight: bold;
-    text-decoration: none;
-    font-weight: 400px;
-  }
-  
-  .menu2 {
-    display: flex;
-    flex-direction: column-reverse;
-    gap: 13px;
-  
-  }
-  
-  .menu3{
+
+  .course-1 div {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    height: 100%;
   }
-  
-  .botao5{
-    font-size: 20px;
-    border: 2px solid white;
-    border-radius: 62px;
-    color: white;
-    height: 51px;
-    width: 289px;
-    background-color: #419488;
-    
+
+  .course-2 div {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
   }
-  
-  
-  
-  
-  
-  /*responsividade*/
-  
-  @media(max-width:1034px) {
-    #banner-1 {
-      display: flex;
-      flex-direction: column;
-    }
-  
-    #h1-banner {
-      margin-top: 300px;
-      font-size: 50px;
-    }
-  
-    .box-filmes {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-    }
-  
-  
+
+  .course-3 div {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
   }
-  
-  @media(max-width:600px) {
-    #imagem-contato-form {
-      display: none;
-    }
-  
-    #formulario {
-      flex-direction: column;
-    }
-  
-  
-    #formulario form {
-      width: 65%;
-  
-    }
-  
+
+  .post img {
+    display: none;
   }
+
+  .post p {
+    display: flex;
+  }
+
+  .bloco2 {
+    display: flex;
+    flex-direction: column;
+    padding: 0px;
+    gap: 0px;
+    margin: 0px;
+  }
+
+  .icon2 {
+    padding: 37px 0px;
+  }
+
+  .box-filmes {
+    flex-direction: column;
+  }
+}
+
+.container-logo {
+  background-color: #ffc107;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  box-shadow: 0px 0px 5px grey;
+}
+
+nav {
+  background-color: #ffa000;
+  display: flex;
+  justify-content: center;
+  gap: 58px;
+  height: 48px;
+  align-items: center;
+}
+
+.menu {
+  margin: 0;
+  padding: 0;
+}
+
+.menu-item {
+  display: inline;
+}
+
+.menu-item-link {
+  color: #fff;
+  font-weight: 700;
+  font-size: 20px;
+  text-decoration: none;
+  margin: 10px 30px;
+}
+
+#imagem-contato-form {
+  width: 100%;
+  height: 30rem;
+}
+
+#formulario {
+  display: flex;
+  justify-content: center;
+  width: 80%;
+  margin: 150px auto 300px auto;
+  gap: 30px;
+  color: #ffc107;
+}
+
+#formulario div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #ff4081;
+  border-radius: 15px;
+  width: 700px;
+  margin-left: 15px;
+}
+
+#formulario h1 {
+  margin-left: 20px;
+  font-weight: 700;
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+
+#formulario form * {
+  margin: 10px 0;
+  padding: 10px;
+}
+
+#formulario form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 90%;
+  padding: 20px;
+}
+
+#formulario button {
+  color: #fff;
+  border-radius: 50px;
+  background-color: #ff4081;
+  width: 150px;
+  height: 40px;
+  font-family: 'Nunito';
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+}
+
+#formulario textarea {
+  height: 100px;
+}
+
+#formulario input,
+textarea {
+  border: 1px solid #000000;
+  border-radius: 5px;
+  width: 100%;
+}
+
+#titulo-index {
+  margin-top: 80px;
+  color: #ffc107;
+  font-weight: 700;
+  font-size: 50px;
+  margin-left: 50px;
+  text-align: center;
+}
+
+#banner {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  font-weight: 700;
+  height: 640px;
+  font-size: 70px;
+  color: #fff;
+  display: flex;
+
+  align-items: center;
+  padding: 100px 100px 100px 100px;
+}
+
+#texto-banner {
+  font-size: 1rem;
+  color: rgb(12, 12, 12);
+}
+
+#h1-banner {
+  font-size: 5rem;
+  color: #ff4081;
+}
+
+#banner-1 {
+  width: 60%;
+
+  color: #ffc107;
+}
+
+#texto-caixa1 {
+  font-size: 5rem;
+  color: #ff4081;
+}
+
+.box-filmes {
+  display: flex;
+  justify-content: center;
+  gap: 8rem;
+  width: 80%;
+  padding: 75px 0px 75px 100px;
+  color: #ffc107;
+}
+
+footer {
+  background-color: #ffc107;
+  color: #fff;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.pratos {
+  background-color: #f6f6f6;
+}
+
+/* header */
+
+.logo a {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  font-weight: 700px;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.rodape a {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  font-weight: 400px;
+}
+
+.menu2 {
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 13px;
+}
+
+.menu3 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.botao5 {
+  font-size: 20px;
+  border: 2px solid white;
+  border-radius: 62px;
+  color: white;
+  height: 51px;
+  width: 289px;
+  background-color: #419488;
+}
+
+/*responsividade*/
+
+@media (max-width: 600px) {
+  #imagem-contato-form {
+    display: none;
+  }
+
+  #formulario {
+    flex-direction: column;
+  }
+
+  #formulario form {
+    width: 65%;
+  }
+}
